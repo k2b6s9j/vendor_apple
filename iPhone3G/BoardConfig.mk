@@ -1,8 +1,5 @@
 LOCAL_PATH := $(dir $(lastword $(MAKEFILE_LIST)))
 
-TARGET_CPU_ABI := armeabi
-TARGET_ARCH_VARIANT := armv6j
-
 USE_CAMERA_STUB := true
 
 BOARD_WPA_SUPPLICANT_DRIVER := WEXT
