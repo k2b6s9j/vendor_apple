@@ -927,7 +927,7 @@
   <apn carrier="Velcom MMS" apn="mms.velcom.by" mcc="257" mnc="01" user="mms" password="mms" server="mms.velcom.by" mmsc="http://mms.velcom.by/servlets/mms" mmsproxy="10.200.15.15" mmsport="8080" type="mms"/>
   <apn carrier="Ventelo Internet" mcc="242" mnc="01" apn="internet.ventelo.no" user="" server="" password="" mmsproxy="" mmsport="" mmsc="" type="default,supl" proxy="" port=""/>
   <apn carrier="Ventelo MMS" mcc="242" mnc="01" apn="mms.ventelo.no" user="ventelo" server="" password="1111" mmsproxy="10.10.10.11" mmsport="8080" mmsc="http://mmsc/" type="mms" proxy="" port=""/>
-  <apn carrier="Verizon" mcc="310" mnc="004" apn="internet" user="*" server="*" password="*" mmsc="http://mms.vtext.com/servlets/mms" />
+  <apn carrier="Verizon" mcc="310" mnc="004" apn="vzwinternet" user="*" server="*" password="*" mmsc="http://mms.vtext.com/servlets/mms" />
   <apn carrier="Vibo" mcc="466" mnc="89" apn="internet" user="" server="" password="" mmsc="" mmsproxy="" mmsport="" type="default,supl"/>
   <apn carrier="Vibo" mcc="466" mnc="89" apn="vibo" user="" server="" password="" mmsc="http://mms" mmsproxy="172.24.128.36" mmsport="8080" type="mms"/>
   <apn carrier="VIETNAMOBILE" apn="wap" proxy="10.10.128.44" port="8080" mcc="452" mnc="5" type="default,supl"/>
